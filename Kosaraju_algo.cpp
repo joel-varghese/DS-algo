@@ -1,3 +1,4 @@
+// Strongly connected components
 #include <iostream>
 #include <stack>
 #include <list>
